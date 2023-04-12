@@ -1,0 +1,6 @@
+com\assignment\project\controller\UrlController.class
+com\assignment\project\entity\Url.class
+com\assignment\project\service\UrlService.class
+com\assignment\project\serviceImpl\UrlServiceImpl.class
+com\assignment\project\ProjectAssignment.class
+com\assignment\project\respository\UrlRepository.class
